@@ -25,6 +25,11 @@
         "description": "PHP Cheatsheet"
     },
     {
+	"name": "RedHat Topics",
+	"url": "https://www.redhat.com/en/topics",
+	"description": "RedHat's Technology Topics"
+    },
+    {
         "name": "SQL Tutorial",
         "url": "https://gvwilson.github.io/sql-tutorial",
         "description": "SQL Tutorial"
